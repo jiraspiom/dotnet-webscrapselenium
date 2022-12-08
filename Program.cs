@@ -1,5 +1,6 @@
 ﻿using OpenQA.Selenium.Chrome;
 using OpenQA.Selenium;
+using webscrapSelenium.Core;
 
 Console.WriteLine("Hello, World!");
 
